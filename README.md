@@ -1,6 +1,6 @@
 # Static Compiler
 
-Simple compiler of static content from Slim and SCSS to HTML and CSS.
+A simple compiler of static content from Slim and SCSS to HTML and CSS.
 
 ## Requirements
 
